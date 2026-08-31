@@ -1,0 +1,16 @@
+{
+  "short_name": "PDM2",
+  "name": "Atividade de Diagnose - PDM2",
+  "icons": [
+    {
+      "src": "icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/index.html",
+  "background_color": "#ffffff",
+  "theme_color": "#317EFB",
+  "display": "standalone",
+  "orientation": "portrait"
+}
