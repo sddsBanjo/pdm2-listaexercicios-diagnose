@@ -3,7 +3,32 @@
   "name": "Atividade de Diagnose - PDM2",
   "icons": [
     {
-      "src": "icon.png",
+      "src": "icons/android/launchericon-48x48.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "icons/android/launchericon-72x72.png",
+      "type": "image/png",
+      "sizes": "72x72"
+    },
+    {
+      "src": "icons/android/launchericon-96x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "icons/android/launchericon-144x144.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "icons/android/launchericon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/android/launchericon-512x512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
