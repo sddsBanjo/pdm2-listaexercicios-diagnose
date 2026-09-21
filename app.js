@@ -122,3 +122,13 @@ function ex10(operacao) {
     };
     h3.innerHTML = resultado;
 };
+
+if ("serviceWorker" in navigator) {
+    navigator.serviceWorker.register("./sw.js")
+        .then(registro => {
+            console.log("Service Worker registrado com sucesso:", registro);
+        })
+        .catch(erro => {
+            console.error("Erro ao registrar Service Worker:", erro);
+        });
+}
